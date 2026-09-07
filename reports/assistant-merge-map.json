@@ -1,0 +1,945 @@
+[
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "contacts",
+      "vendor-master-normalization",
+      "recovery-case-management",
+      "vendor-correspondence-generation",
+      "vendor-and-root-cause-analytics",
+      "customer-dispute-package",
+      "customer-root-cause-analytics",
+      "lease-agreement-library",
+      "device-serial-registry",
+      "meter-read-ingestion",
+      "included-volume-calculation",
+      "mono-color-click-rate",
+      "device-relocation-tracking",
+      "vendor-dispute-workflow",
+      "fleet-device-analytics",
+      "partner-agreement-library",
+      "product-channel-registry",
+      "transaction-ingestion",
+      "minimum-guarantee-tracking",
+      "partner-dispute-workflow",
+      "partner-product-profitability",
+      "bank-lockbox-ingestion",
+      "customer-payer-normalization",
+      "remittance-extraction",
+      "deduction-identification",
+      "unidentified-receipt-workflow",
+      "aging-escalation",
+      "customer-unit-analytics",
+      "alerts",
+      "materiality",
+      "advanced-ai-tools",
+      "smart-search",
+      "categorize",
+      "report-summary",
+      "trip-planner",
+      "currency-validator",
+      "admin-tools",
+      "batch-tools",
+      "walkthroughs",
+      "reviews",
+      "remediations",
+      "management-reviews",
+      "workpaper-review",
+      "finance-tracker-eakarsu"
+    ],
+    "ai": true,
+    "representativeId": "contacts",
+    "description": "One assistant for 44 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "contacts",
+        "title": "Contacts & parties",
+        "originalPath": "/features/contacts"
+      },
+      {
+        "id": "vendor-master-normalization",
+        "title": "Vendor master normalization",
+        "originalPath": "/features/vendor-master-normalization"
+      },
+      {
+        "id": "recovery-case-management",
+        "title": "Recovery case management",
+        "originalPath": "/features/recovery-case-management"
+      },
+      {
+        "id": "vendor-correspondence-generation",
+        "title": "Vendor correspondence generation",
+        "originalPath": "/features/vendor-correspondence-generation"
+      },
+      {
+        "id": "vendor-and-root-cause-analytics",
+        "title": "Vendor and root-cause analytics",
+        "originalPath": "/features/vendor-and-root-cause-analytics"
+      },
+      {
+        "id": "customer-dispute-package",
+        "title": "Customer dispute package",
+        "originalPath": "/features/customer-dispute-package"
+      },
+      {
+        "id": "customer-root-cause-analytics",
+        "title": "Customer root-cause analytics",
+        "originalPath": "/features/customer-root-cause-analytics"
+      },
+      {
+        "id": "lease-agreement-library",
+        "title": "Lease agreement library",
+        "originalPath": "/features/lease-agreement-library"
+      },
+      {
+        "id": "device-serial-registry",
+        "title": "Device serial registry",
+        "originalPath": "/features/device-serial-registry"
+      },
+      {
+        "id": "meter-read-ingestion",
+        "title": "Meter read ingestion",
+        "originalPath": "/features/meter-read-ingestion"
+      },
+      {
+        "id": "included-volume-calculation",
+        "title": "Included volume calculation",
+        "originalPath": "/features/included-volume-calculation"
+      },
+      {
+        "id": "mono-color-click-rate",
+        "title": "Mono color click rate",
+        "originalPath": "/features/mono-color-click-rate"
+      },
+      {
+        "id": "device-relocation-tracking",
+        "title": "Device relocation tracking",
+        "originalPath": "/features/device-relocation-tracking"
+      },
+      {
+        "id": "vendor-dispute-workflow",
+        "title": "Vendor dispute workflow",
+        "originalPath": "/features/vendor-dispute-workflow"
+      },
+      {
+        "id": "fleet-device-analytics",
+        "title": "Fleet device analytics",
+        "originalPath": "/features/fleet-device-analytics"
+      },
+      {
+        "id": "partner-agreement-library",
+        "title": "Partner agreement library",
+        "originalPath": "/features/partner-agreement-library"
+      },
+      {
+        "id": "product-channel-registry",
+        "title": "Product channel registry",
+        "originalPath": "/features/product-channel-registry"
+      },
+      {
+        "id": "transaction-ingestion",
+        "title": "Transaction ingestion",
+        "originalPath": "/features/transaction-ingestion"
+      },
+      {
+        "id": "minimum-guarantee-tracking",
+        "title": "Minimum guarantee tracking",
+        "originalPath": "/features/minimum-guarantee-tracking"
+      },
+      {
+        "id": "partner-dispute-workflow",
+        "title": "Partner dispute workflow",
+        "originalPath": "/features/partner-dispute-workflow"
+      },
+      {
+        "id": "partner-product-profitability",
+        "title": "Partner product profitability",
+        "originalPath": "/features/partner-product-profitability"
+      },
+      {
+        "id": "bank-lockbox-ingestion",
+        "title": "Bank lockbox ingestion",
+        "originalPath": "/features/bank-lockbox-ingestion"
+      },
+      {
+        "id": "customer-payer-normalization",
+        "title": "Customer payer normalization",
+        "originalPath": "/features/customer-payer-normalization"
+      },
+      {
+        "id": "remittance-extraction",
+        "title": "Remittance extraction",
+        "originalPath": "/features/remittance-extraction"
+      },
+      {
+        "id": "deduction-identification",
+        "title": "Deduction identification",
+        "originalPath": "/features/deduction-identification"
+      },
+      {
+        "id": "unidentified-receipt-workflow",
+        "title": "Unidentified receipt workflow",
+        "originalPath": "/features/unidentified-receipt-workflow"
+      },
+      {
+        "id": "aging-escalation",
+        "title": "Aging escalation",
+        "originalPath": "/features/aging-escalation"
+      },
+      {
+        "id": "customer-unit-analytics",
+        "title": "Customer unit analytics",
+        "originalPath": "/features/customer-unit-analytics"
+      },
+      {
+        "id": "alerts",
+        "title": "Notifications & Alerts",
+        "originalPath": "/features/alerts"
+      },
+      {
+        "id": "materiality",
+        "title": "Materiality Calc",
+        "originalPath": "/features/materiality"
+      },
+      {
+        "id": "advanced-ai-tools",
+        "title": "Advanced AI Tools",
+        "originalPath": "/features/advanced-ai-tools"
+      },
+      {
+        "id": "smart-search",
+        "title": "AI Smart Search",
+        "originalPath": "/features/smart-search"
+      },
+      {
+        "id": "categorize",
+        "title": "AI Categorization",
+        "originalPath": "/features/categorize"
+      },
+      {
+        "id": "report-summary",
+        "title": "AI Report Summary",
+        "originalPath": "/features/report-summary"
+      },
+      {
+        "id": "trip-planner",
+        "title": "AI Trip Planner",
+        "originalPath": "/features/trip-planner"
+      },
+      {
+        "id": "currency-validator",
+        "title": "AI Currency Converter",
+        "originalPath": "/features/currency-validator"
+      },
+      {
+        "id": "admin-tools",
+        "title": "Admin tools",
+        "originalPath": "/features/admin-tools"
+      },
+      {
+        "id": "batch-tools",
+        "title": "Batch tools",
+        "originalPath": "/features/batch-tools"
+      },
+      {
+        "id": "walkthroughs",
+        "title": "Generate Narrative",
+        "originalPath": "/features/walkthroughs"
+      },
+      {
+        "id": "reviews",
+        "title": "Review Assessment",
+        "originalPath": "/features/reviews"
+      },
+      {
+        "id": "remediations",
+        "title": "Remediation Assessment",
+        "originalPath": "/features/remediations"
+      },
+      {
+        "id": "management-reviews",
+        "title": "Management Review",
+        "originalPath": "/features/management-reviews"
+      },
+      {
+        "id": "workpaper-review",
+        "title": "PCAOB Workpaper Review",
+        "originalPath": "/features/workpaper-review"
+      },
+      {
+        "id": "finance-tracker-eakarsu",
+        "title": "Finance tracker eakarsu work",
+        "originalPath": "/features/finance-tracker-eakarsu"
+      }
+    ]
+  },
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "dunning-letter"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "dunning-letter",
+        "title": "Dunning Letter Generator",
+        "originalPath": "/features/dunning-letter"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "invoice-and-payment-ingestion",
+      "fuzzy-invoice-matching",
+      "split-invoice-detection",
+      "vendor-credit-balance-discovery",
+      "statement-to-ledger-reconciliation",
+      "cancelled-payment-validation",
+      "refund-and-credit-tracking",
+      "general-ledger-reconciliation",
+      "preventive-payment-controls",
+      "customer-contract-and-price-library",
+      "invoice-and-receivable-ingestion",
+      "short-payment-detection",
+      "tax-and-pricing-analysis",
+      "recovered-cash-reconciliation",
+      "service-downtime-credit",
+      "duplicate-device-billing",
+      "property-tax-fee-review",
+      "invoice-recalculation",
+      "credit-reconciliation",
+      "gross-revenue-reconstruction",
+      "refund-chargeback-allocation",
+      "tax-pass-through-exclusion",
+      "revenue-share-tier-calculation",
+      "marketing-service-fee-validation",
+      "partner-statement-reconciliation",
+      "missing-payment-detection",
+      "settlement-generation",
+      "cash-reconciliation",
+      "invoice-candidate-matching",
+      "partial-payment-allocation",
+      "consolidated-payment-handling",
+      "customer-credit-analysis",
+      "refund-reapplication-control",
+      "tax-deductions",
+      "budget-forecast",
+      "cost-optimization",
+      "airevenue-recognition-engine",
+      "financial",
+      "financial-reviews"
+    ],
+    "ai": true,
+    "representativeId": "invoice-and-payment-ingestion",
+    "description": "One assistant for 39 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "invoice-and-payment-ingestion",
+        "title": "Invoice and payment ingestion",
+        "originalPath": "/features/invoice-and-payment-ingestion"
+      },
+      {
+        "id": "fuzzy-invoice-matching",
+        "title": "Fuzzy invoice matching",
+        "originalPath": "/features/fuzzy-invoice-matching"
+      },
+      {
+        "id": "split-invoice-detection",
+        "title": "Split-invoice detection",
+        "originalPath": "/features/split-invoice-detection"
+      },
+      {
+        "id": "vendor-credit-balance-discovery",
+        "title": "Vendor credit-balance discovery",
+        "originalPath": "/features/vendor-credit-balance-discovery"
+      },
+      {
+        "id": "statement-to-ledger-reconciliation",
+        "title": "Statement-to-ledger reconciliation",
+        "originalPath": "/features/statement-to-ledger-reconciliation"
+      },
+      {
+        "id": "cancelled-payment-validation",
+        "title": "Cancelled payment validation",
+        "originalPath": "/features/cancelled-payment-validation"
+      },
+      {
+        "id": "refund-and-credit-tracking",
+        "title": "Refund and credit tracking",
+        "originalPath": "/features/refund-and-credit-tracking"
+      },
+      {
+        "id": "general-ledger-reconciliation",
+        "title": "General-ledger reconciliation",
+        "originalPath": "/features/general-ledger-reconciliation"
+      },
+      {
+        "id": "preventive-payment-controls",
+        "title": "Preventive payment controls",
+        "originalPath": "/features/preventive-payment-controls"
+      },
+      {
+        "id": "customer-contract-and-price-library",
+        "title": "Customer contract and price library",
+        "originalPath": "/features/customer-contract-and-price-library"
+      },
+      {
+        "id": "invoice-and-receivable-ingestion",
+        "title": "Invoice and receivable ingestion",
+        "originalPath": "/features/invoice-and-receivable-ingestion"
+      },
+      {
+        "id": "short-payment-detection",
+        "title": "Short-payment detection",
+        "originalPath": "/features/short-payment-detection"
+      },
+      {
+        "id": "tax-and-pricing-analysis",
+        "title": "Tax and pricing analysis",
+        "originalPath": "/features/tax-and-pricing-analysis"
+      },
+      {
+        "id": "recovered-cash-reconciliation",
+        "title": "Recovered cash reconciliation",
+        "originalPath": "/features/recovered-cash-reconciliation"
+      },
+      {
+        "id": "service-downtime-credit",
+        "title": "Service downtime credit",
+        "originalPath": "/features/service-downtime-credit"
+      },
+      {
+        "id": "duplicate-device-billing",
+        "title": "Duplicate device billing",
+        "originalPath": "/features/duplicate-device-billing"
+      },
+      {
+        "id": "property-tax-fee-review",
+        "title": "Property tax fee review",
+        "originalPath": "/features/property-tax-fee-review"
+      },
+      {
+        "id": "invoice-recalculation",
+        "title": "Invoice recalculation",
+        "originalPath": "/features/invoice-recalculation"
+      },
+      {
+        "id": "credit-reconciliation",
+        "title": "Credit reconciliation",
+        "originalPath": "/features/credit-reconciliation"
+      },
+      {
+        "id": "gross-revenue-reconstruction",
+        "title": "Gross revenue reconstruction",
+        "originalPath": "/features/gross-revenue-reconstruction"
+      },
+      {
+        "id": "refund-chargeback-allocation",
+        "title": "Refund chargeback allocation",
+        "originalPath": "/features/refund-chargeback-allocation"
+      },
+      {
+        "id": "tax-pass-through-exclusion",
+        "title": "Tax pass-through exclusion",
+        "originalPath": "/features/tax-pass-through-exclusion"
+      },
+      {
+        "id": "revenue-share-tier-calculation",
+        "title": "Revenue-share tier calculation",
+        "originalPath": "/features/revenue-share-tier-calculation"
+      },
+      {
+        "id": "marketing-service-fee-validation",
+        "title": "Marketing service fee validation",
+        "originalPath": "/features/marketing-service-fee-validation"
+      },
+      {
+        "id": "partner-statement-reconciliation",
+        "title": "Partner statement reconciliation",
+        "originalPath": "/features/partner-statement-reconciliation"
+      },
+      {
+        "id": "missing-payment-detection",
+        "title": "Missing payment detection",
+        "originalPath": "/features/missing-payment-detection"
+      },
+      {
+        "id": "settlement-generation",
+        "title": "Settlement generation",
+        "originalPath": "/features/settlement-generation"
+      },
+      {
+        "id": "cash-reconciliation",
+        "title": "Cash reconciliation",
+        "originalPath": "/features/cash-reconciliation"
+      },
+      {
+        "id": "invoice-candidate-matching",
+        "title": "Invoice candidate matching",
+        "originalPath": "/features/invoice-candidate-matching"
+      },
+      {
+        "id": "partial-payment-allocation",
+        "title": "Partial payment allocation",
+        "originalPath": "/features/partial-payment-allocation"
+      },
+      {
+        "id": "consolidated-payment-handling",
+        "title": "Consolidated payment handling",
+        "originalPath": "/features/consolidated-payment-handling"
+      },
+      {
+        "id": "customer-credit-analysis",
+        "title": "Customer credit analysis",
+        "originalPath": "/features/customer-credit-analysis"
+      },
+      {
+        "id": "refund-reapplication-control",
+        "title": "Refund reapplication control",
+        "originalPath": "/features/refund-reapplication-control"
+      },
+      {
+        "id": "tax-deductions",
+        "title": "AI Tax Deductions",
+        "originalPath": "/features/tax-deductions"
+      },
+      {
+        "id": "budget-forecast",
+        "title": "AI Budget Forecast",
+        "originalPath": "/features/budget-forecast"
+      },
+      {
+        "id": "cost-optimization",
+        "title": "AI Cost Optimization",
+        "originalPath": "/features/cost-optimization"
+      },
+      {
+        "id": "airevenue-recognition-engine",
+        "title": "Revenue recognition engine work",
+        "originalPath": "/features/airevenue-recognition-engine"
+      },
+      {
+        "id": "financial",
+        "title": "Financial Analysis",
+        "originalPath": "/features/financial"
+      },
+      {
+        "id": "financial-reviews",
+        "title": "Financial Review",
+        "originalPath": "/features/financial-reviews"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "exact-duplicate-detection",
+      "duplicate-expense-analysis",
+      "cash-and-lockbox-matching",
+      "deduction-reason-classification",
+      "unauthorized-discount-detection",
+      "proof-of-delivery-matching",
+      "exact-cash-matching",
+      "probabilistic-cash-matching",
+      "aging-analysis",
+      "cash-forecast",
+      "intercompany",
+      "duplicates",
+      "approval-recommendation",
+      "spending-analysis",
+      "department-benchmark",
+      "receipt-analysis",
+      "benford",
+      "network",
+      "deficiencies",
+      "itgc",
+      "sod",
+      "incidents",
+      "sampling-recommendation",
+      "remediation-tracking-dashboard-with-timeline-view-and-predictive",
+      "sampling-recommendation-engine-test-size-based-on"
+    ],
+    "ai": true,
+    "representativeId": "exact-duplicate-detection",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "exact-duplicate-detection",
+        "title": "Exact duplicate detection",
+        "originalPath": "/features/exact-duplicate-detection"
+      },
+      {
+        "id": "duplicate-expense-analysis",
+        "title": "Duplicate expense analysis",
+        "originalPath": "/features/duplicate-expense-analysis"
+      },
+      {
+        "id": "cash-and-lockbox-matching",
+        "title": "Cash and lockbox matching",
+        "originalPath": "/features/cash-and-lockbox-matching"
+      },
+      {
+        "id": "deduction-reason-classification",
+        "title": "Deduction reason classification",
+        "originalPath": "/features/deduction-reason-classification"
+      },
+      {
+        "id": "unauthorized-discount-detection",
+        "title": "Unauthorized discount detection",
+        "originalPath": "/features/unauthorized-discount-detection"
+      },
+      {
+        "id": "proof-of-delivery-matching",
+        "title": "Proof-of-delivery matching",
+        "originalPath": "/features/proof-of-delivery-matching"
+      },
+      {
+        "id": "exact-cash-matching",
+        "title": "Exact cash matching",
+        "originalPath": "/features/exact-cash-matching"
+      },
+      {
+        "id": "probabilistic-cash-matching",
+        "title": "Probabilistic cash matching",
+        "originalPath": "/features/probabilistic-cash-matching"
+      },
+      {
+        "id": "aging-analysis",
+        "title": "Aging Analysis",
+        "originalPath": "/features/aging-analysis"
+      },
+      {
+        "id": "cash-forecast",
+        "title": "Cash Flow Forecast",
+        "originalPath": "/features/cash-forecast"
+      },
+      {
+        "id": "intercompany",
+        "title": "Intercompany Optimizer",
+        "originalPath": "/features/intercompany"
+      },
+      {
+        "id": "duplicates",
+        "title": "AI Duplicate Detection",
+        "originalPath": "/features/duplicates"
+      },
+      {
+        "id": "approval-recommendation",
+        "title": "AI Approval Recommender",
+        "originalPath": "/features/approval-recommendation"
+      },
+      {
+        "id": "spending-analysis",
+        "title": "AI Spending Analysis",
+        "originalPath": "/features/spending-analysis"
+      },
+      {
+        "id": "department-benchmark",
+        "title": "AI Dept Benchmark",
+        "originalPath": "/features/department-benchmark"
+      },
+      {
+        "id": "receipt-analysis",
+        "title": "AI Receipt Analyzer",
+        "originalPath": "/features/receipt-analysis"
+      },
+      {
+        "id": "benford",
+        "title": "Benford's Law Analysis",
+        "originalPath": "/features/benford"
+      },
+      {
+        "id": "network",
+        "title": "Network Analysis",
+        "originalPath": "/features/network"
+      },
+      {
+        "id": "deficiencies",
+        "title": "Classify Deficiency",
+        "originalPath": "/features/deficiencies"
+      },
+      {
+        "id": "itgc",
+        "title": "Analyze ITGC",
+        "originalPath": "/features/itgc"
+      },
+      {
+        "id": "sod",
+        "title": "SoD Conflict Analysis",
+        "originalPath": "/features/sod"
+      },
+      {
+        "id": "incidents",
+        "title": "Incident Analysis",
+        "originalPath": "/features/incidents"
+      },
+      {
+        "id": "sampling-recommendation",
+        "title": "Sampling Recommendation",
+        "originalPath": "/features/sampling-recommendation"
+      },
+      {
+        "id": "remediation-tracking-dashboard-with-timeline-view-and-predictive",
+        "title": "remediation tracking dashboard with timeline view and predictive",
+        "originalPath": "/features/remediation-tracking-dashboard-with-timeline-view-and-predictive"
+      },
+      {
+        "id": "sampling-recommendation-engine-test-size-based-on",
+        "title": "sampling recommendation engine test size based on",
+        "originalPath": "/features/sampling-recommendation-engine-test-size-based-on"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "freight-deduction-validation",
+      "damage-deduction-validation",
+      "promotion-allowance-validation",
+      "evidence-request-workflow",
+      "deadline-and-aging-control",
+      "supply-inclusion-control",
+      "early-termination-audit",
+      "evidence",
+      "policies",
+      "fraud-detection",
+      "anomaly-detection",
+      "vendor-risk",
+      "employee-risk",
+      "policy-check",
+      "policy-suggestions",
+      "audit-report",
+      "merchant-risk",
+      "agentic-audit",
+      "controls",
+      "risks",
+      "compliance",
+      "access",
+      "changes",
+      "plans",
+      "risk-assessments",
+      "evidence-quality-assessment-is-provided-evidence-sufficient",
+      "ai-driven-control-to-risk-auto-mapping",
+      "dedicated-audit-trail-subsystem-despite-domain-requirement"
+    ],
+    "ai": true,
+    "representativeId": "freight-deduction-validation",
+    "description": "One assistant for 28 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "freight-deduction-validation",
+        "title": "Freight deduction validation",
+        "originalPath": "/features/freight-deduction-validation"
+      },
+      {
+        "id": "damage-deduction-validation",
+        "title": "Damage deduction validation",
+        "originalPath": "/features/damage-deduction-validation"
+      },
+      {
+        "id": "promotion-allowance-validation",
+        "title": "Promotion allowance validation",
+        "originalPath": "/features/promotion-allowance-validation"
+      },
+      {
+        "id": "evidence-request-workflow",
+        "title": "Evidence request workflow",
+        "originalPath": "/features/evidence-request-workflow"
+      },
+      {
+        "id": "deadline-and-aging-control",
+        "title": "Deadline and aging control",
+        "originalPath": "/features/deadline-and-aging-control"
+      },
+      {
+        "id": "supply-inclusion-control",
+        "title": "Supply inclusion control",
+        "originalPath": "/features/supply-inclusion-control"
+      },
+      {
+        "id": "early-termination-audit",
+        "title": "Early termination audit",
+        "originalPath": "/features/early-termination-audit"
+      },
+      {
+        "id": "evidence",
+        "title": "Audit Evidence",
+        "originalPath": "/features/evidence"
+      },
+      {
+        "id": "policies",
+        "title": "Policy Rules",
+        "originalPath": "/features/policies"
+      },
+      {
+        "id": "fraud-detection",
+        "title": "AI Fraud Detection",
+        "originalPath": "/features/fraud-detection"
+      },
+      {
+        "id": "anomaly-detection",
+        "title": "AI Anomaly Detection",
+        "originalPath": "/features/anomaly-detection"
+      },
+      {
+        "id": "vendor-risk",
+        "title": "AI Vendor Risk",
+        "originalPath": "/features/vendor-risk"
+      },
+      {
+        "id": "employee-risk",
+        "title": "AI Employee Risk",
+        "originalPath": "/features/employee-risk"
+      },
+      {
+        "id": "policy-check",
+        "title": "AI Policy Compliance",
+        "originalPath": "/features/policy-check"
+      },
+      {
+        "id": "policy-suggestions",
+        "title": "AI Policy Suggestions",
+        "originalPath": "/features/policy-suggestions"
+      },
+      {
+        "id": "audit-report",
+        "title": "AI Audit Report Gen",
+        "originalPath": "/features/audit-report"
+      },
+      {
+        "id": "merchant-risk",
+        "title": "Merchant risk",
+        "originalPath": "/features/merchant-risk"
+      },
+      {
+        "id": "agentic-audit",
+        "title": "Agentic audit",
+        "originalPath": "/features/agentic-audit"
+      },
+      {
+        "id": "controls",
+        "title": "Analyze Control",
+        "originalPath": "/features/controls"
+      },
+      {
+        "id": "risks",
+        "title": "Analyze Risk",
+        "originalPath": "/features/risks"
+      },
+      {
+        "id": "compliance",
+        "title": "Compliance Gap",
+        "originalPath": "/features/compliance"
+      },
+      {
+        "id": "access",
+        "title": "Access Risk Analysis",
+        "originalPath": "/features/access"
+      },
+      {
+        "id": "changes",
+        "title": "Change Risk Assessment",
+        "originalPath": "/features/changes"
+      },
+      {
+        "id": "plans",
+        "title": "Audit Plan Suggestions",
+        "originalPath": "/features/plans"
+      },
+      {
+        "id": "risk-assessments",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk-assessments"
+      },
+      {
+        "id": "evidence-quality-assessment-is-provided-evidence-sufficient",
+        "title": "evidence quality assessment is provided evidence sufficient",
+        "originalPath": "/features/evidence-quality-assessment-is-provided-evidence-sufficient"
+      },
+      {
+        "id": "ai-driven-control-to-risk-auto-mapping",
+        "title": "ai driven control to risk auto mapping",
+        "originalPath": "/features/ai-driven-control-to-risk-auto-mapping"
+      },
+      {
+        "id": "dedicated-audit-trail-subsystem-despite-domain-requirement",
+        "title": "dedicated audit trail subsystem despite domain requirement",
+        "originalPath": "/features/dedicated-audit-trail-subsystem-despite-domain-requirement"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "AI History",
+        "originalPath": "/features/history"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "multi-year-trend-analysis-or-re-test-scheduling"
+    ],
+    "ai": true,
+    "representativeId": "multi-year-trend-analysis-or-re-test-scheduling",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "multi-year-trend-analysis-or-re-test-scheduling",
+        "title": "multi year trend analysis or re test scheduling",
+        "originalPath": "/features/multi-year-trend-analysis-or-re-test-scheduling"
+      }
+    ]
+  }
+]

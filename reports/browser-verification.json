@@ -1,0 +1,11 @@
+{
+  "id": "accounting-platform",
+  "status": "passed",
+  "pagesVisited": 239,
+  "minimumRows": 15,
+  "browserCRUD": true,
+  "persistence": true,
+  "mobile": true,
+  "pageErrors": [],
+  "verifiedAt": "2026-09-07T14:39:53.141Z"
+}

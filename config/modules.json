@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ai-ap-duplicate-payment-vendor-refund-recovery",
+    "name": "Ap duplicate payment vendor refund recovery",
+    "sourceProject": "ai-ap-duplicate-payment-vendor-refund-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-ar-short-pay-deduction-recovery",
+    "name": "Ar short pay deduction recovery",
+    "sourceProject": "ai-ar-short-pay-deduction-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-managed-print-copier-lease-audit",
+    "name": "Managed print copier lease audit",
+    "sourceProject": "ai-managed-print-copier-lease-audit",
+    "services": []
+  },
+  {
+    "id": "ai-partner-revenue-share-settlement-reconciliation",
+    "name": "Partner revenue share settlement reconciliation",
+    "sourceProject": "ai-partner-revenue-share-settlement-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-unapplied-cash-credit-balance-recovery",
+    "name": "Unapplied cash credit balance recovery",
+    "sourceProject": "ai-unapplied-cash-credit-balance-recovery",
+    "services": []
+  },
+  {
+    "id": "AIAPARAutomation",
+    "name": "Aparautomation",
+    "sourceProject": "AIAPARAutomation",
+    "services": []
+  },
+  {
+    "id": "AIAuditWorkpaperAutomation",
+    "name": "Audit workpaper automation",
+    "sourceProject": "AIAuditWorkpaperAutomation",
+    "services": []
+  },
+  {
+    "id": "AIExpenseReportAuditor",
+    "name": "Expense report auditor",
+    "sourceProject": "AIExpenseReportAuditor",
+    "services": []
+  },
+  {
+    "id": "AIForensicAccountingInvestigator",
+    "name": "Forensic accounting investigator",
+    "sourceProject": "AIForensicAccountingInvestigator",
+    "services": []
+  },
+  {
+    "id": "AIInvoiceProcessing",
+    "name": "Invoice processing",
+    "sourceProject": "AIInvoiceProcessing",
+    "services": []
+  },
+  {
+    "id": "AIRevenueRecognitionEngine",
+    "name": "Revenue recognition engine",
+    "sourceProject": "AIRevenueRecognitionEngine",
+    "services": []
+  },
+  {
+    "id": "AISOXAuditAutomation",
+    "name": "Soxaudit automation",
+    "sourceProject": "AISOXAuditAutomation",
+    "services": []
+  },
+  {
+    "id": "cash_flow",
+    "name": "Cash flow",
+    "sourceProject": "cash_flow",
+    "services": []
+  },
+  {
+    "id": "finance-tracker-eakarsu",
+    "name": "Finance tracker eakarsu",
+    "sourceProject": "finance-tracker-eakarsu",
+    "services": []
+  },
+  {
+    "id": "quickbooks",
+    "name": "Quickbooks",
+    "sourceProject": "quickbooks",
+    "services": []
+  }
+]

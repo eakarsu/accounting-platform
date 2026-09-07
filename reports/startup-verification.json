@@ -1,0 +1,8 @@
+{
+  "id": "accounting-platform",
+  "port": 46019,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:34.345Z"
+}

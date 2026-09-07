@@ -1,0 +1,9 @@
+{
+  "app": "accounting-platform",
+  "features": 239,
+  "sourceApps": 15,
+  "calculatorEngines": 0,
+  "registryHash": "d6e387c23d255ca4ab95ac6fc57a43e900a1f96d4a466a4ee2056f9755b98078",
+  "builtAt": "2026-09-07T22:05:37.723Z",
+  "status": "built"
+}

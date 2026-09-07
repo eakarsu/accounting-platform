@@ -1,0 +1,2495 @@
+{
+  "mapped": [
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "vendor-master-normalization",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "vendor-master-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "invoice-and-payment-ingestion",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "invoice-and-payment-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "exact-duplicate-detection",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "exact-duplicate-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "fuzzy-invoice-matching",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "fuzzy-invoice-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "split-invoice-detection",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "split-invoice-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "duplicate-expense-analysis",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "duplicate-expense-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "vendor-credit-balance-discovery",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "vendor-credit-balance-discovery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "statement-to-ledger-reconciliation",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "statement-to-ledger-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "cancelled-payment-validation",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "cancelled-payment-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "recovery-case-management",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "recovery-case-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "vendor-correspondence-generation",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "vendor-correspondence-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "refund-and-credit-tracking",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "refund-and-credit-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "general-ledger-reconciliation",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "general-ledger-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "preventive-payment-controls",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "preventive-payment-controls",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "vendor-and-root-cause-analytics",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/app.config.mjs",
+      "canonical": "vendor-and-root-cause-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "customer-contract-and-price-library",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "customer-contract-and-price-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "invoice-and-receivable-ingestion",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "invoice-and-receivable-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "cash-and-lockbox-matching",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "cash-and-lockbox-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "short-payment-detection",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "short-payment-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "deduction-reason-classification",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "deduction-reason-classification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "unauthorized-discount-detection",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "unauthorized-discount-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "freight-deduction-validation",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "freight-deduction-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "damage-deduction-validation",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "damage-deduction-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "promotion-allowance-validation",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "promotion-allowance-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "tax-and-pricing-analysis",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "tax-and-pricing-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "proof-of-delivery-matching",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "proof-of-delivery-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "evidence-request-workflow",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "evidence-request-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "customer-dispute-package",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "customer-dispute-package",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "deadline-and-aging-control",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "deadline-and-aging-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "recovered-cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "recovered-cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "customer-root-cause-analytics",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/app.config.mjs",
+      "canonical": "customer-root-cause-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "lease-agreement-library",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "lease-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "device-serial-registry",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "device-serial-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "meter-read-ingestion",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "meter-read-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "included-volume-calculation",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "included-volume-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "mono-color-click-rate",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "mono-color-click-rate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "supply-inclusion-control",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "supply-inclusion-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "service-downtime-credit",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "service-downtime-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "device-relocation-tracking",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "device-relocation-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "duplicate-device-billing",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "duplicate-device-billing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "property-tax-fee-review",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "property-tax-fee-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "early-termination-audit",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "early-termination-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "invoice-recalculation",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "invoice-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "vendor-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "vendor-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "fleet-device-analytics",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/app.config.mjs",
+      "canonical": "fleet-device-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "partner-agreement-library",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "partner-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "product-channel-registry",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "product-channel-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "gross-revenue-reconstruction",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "gross-revenue-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "refund-chargeback-allocation",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "refund-chargeback-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "tax-pass-through-exclusion",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "tax-pass-through-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "revenue-share-tier-calculation",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "revenue-share-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "minimum-guarantee-tracking",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "minimum-guarantee-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "marketing-service-fee-validation",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "marketing-service-fee-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "partner-statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "partner-statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "missing-payment-detection",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "missing-payment-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "settlement-generation",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "settlement-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "partner-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "partner-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "partner-product-profitability",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/app.config.mjs",
+      "canonical": "partner-product-profitability",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "bank-lockbox-ingestion",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "bank-lockbox-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "customer-payer-normalization",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "customer-payer-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "remittance-extraction",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "remittance-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "invoice-candidate-matching",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "invoice-candidate-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "exact-cash-matching",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "exact-cash-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "probabilistic-cash-matching",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "probabilistic-cash-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "partial-payment-allocation",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "partial-payment-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "consolidated-payment-handling",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "consolidated-payment-handling",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "deduction-identification",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "deduction-identification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "unidentified-receipt-workflow",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "unidentified-receipt-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "customer-credit-analysis",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "customer-credit-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "refund-reapplication-control",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "refund-reapplication-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "general-ledger-reconciliation",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "general-ledger-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "aging-escalation",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "aging-escalation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "customer-unit-analytics",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/app.config.mjs",
+      "canonical": "customer-unit-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/invoice-matching",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "invoice-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/payment-reconciliation",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "payment-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/dunning-optimization",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "dunning-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/cash-application",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "cash-application",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/discount-capture",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "discount-capture",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/aging-analysis",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "aging-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/vendor-health",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "vendor-health",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/credit-advisor",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "credit-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/dunning-letter",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "dunning-letter",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/invoice-anomaly",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "invoice-anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/cash-forecast",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "cash-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/intercompany",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "intercompany",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/tax-compliance",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "tax-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/discount-dashboard",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "discount-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/three-way-matching",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "three-way-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/vendor-fraud-detection",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "vendor-fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/multi-currency-fx",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "multi-currency-fx",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/erp-mapping-suggest",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "erp-mapping-suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAPARAutomation",
+      "sourceKey": "/alerts",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "canonical": "alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/evidence",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/sampling",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "sampling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/workpapers",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "workpapers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/findings",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "findings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/checklists",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/evidence-adequacy",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "evidence-adequacy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/materiality",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "materiality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/risk-heat-map",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "risk-heat-map",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/workpaper-templates",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "workpaper-templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/advanced-ai-tools",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "advanced-ai-tools",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/pbc-aging-risk",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "pbc-aging-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/audit-trail",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "audit-trail",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "missing-features",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation",
+      "canonical": "missing-features",
+      "kind": "route"
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/employees",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "employees",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/departments",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "departments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/categories",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "categories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/policies",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/budgets",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/trips",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "trips",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/approvals",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "approvals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/audit-logs",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "audit-trail",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/fraud-detection",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "fraud-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/anomaly-detection",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "anomaly-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/duplicates",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "duplicates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/vendor-risk",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "vendor-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/employee-risk",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "employee-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/policy-check",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "policy-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/policy-suggestions",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "policy-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/approval-recommendation",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "approval-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/tax-deductions",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "tax-deductions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/spending-analysis",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "spending-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/budget-forecast",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "budget-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/department-benchmark",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "department-benchmark",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/cost-optimization",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "cost-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/smart-search",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "smart-search",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/categorize",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "categorize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/receipt-analysis",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "receipt-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/report-summary",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "report-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/trip-planner",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "trip-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/currency-validator",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "currency-validator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "/ai/audit-report",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor/client/src/pages/Dashboard.jsx",
+      "canonical": "audit-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "ai/merchant-risk",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "canonical": "merchant-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "ai/admin-tools",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "canonical": "admin-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "ai/batch-tools",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "canonical": "batch-tools",
+      "kind": "route"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "ai/agentic-audit",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "canonical": "agentic-audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "benford",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "benford",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "anomaly",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "anomaly",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "embezzlement",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "embezzlement",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "fraud",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "fraud",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "ratios",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "ratios",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "import",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "import",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "network",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "network",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "shell-company-linkage",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator/frontend/src/pages/Dashboard.js",
+      "canonical": "shell-company-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "sourceKey": "extras",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator",
+      "canonical": "extras",
+      "kind": "route"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/purchase-orders",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "purchase-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/payments",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "payments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/approvals",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "approvals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/expense-categories",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "expense-categories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/budgets",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/receipts",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "receipts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/tax-records",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "tax-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/bank-reconciliations",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "bank-reconciliations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/credit-notes",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "credit-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/currency-conversions",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "currency-conversions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/duplicate-detections",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "duplicate-detections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIInvoiceProcessing",
+      "sourceKey": "/audit-logs",
+      "source": "/Volumes/external/projects/AIInvoiceProcessing/client/app.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIRevenueRecognitionEngine",
+      "sourceKey": "AIRevenueRecognitionEngine",
+      "source": "/Volumes/external/projects/AIRevenueRecognitionEngine",
+      "canonical": "airevenue-recognition-engine",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "controls",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "controls",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "risks",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "risks",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "evidence",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "deficiencies",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "deficiencies",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "walkthroughs",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "walkthroughs",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "reviews",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "itgc",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "itgc",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "financial",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "financial",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "sod",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "sod",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "access",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "access",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "changes",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "changes",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "policies",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "remediations",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "remediations",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "plans",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "materiality",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "materiality",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "incidents",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/AISidebar.jsx",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/control-library",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-control-library",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/evidence-requests",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-evidence-requests",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/policy-mapping",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-policy-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/audit-workflows",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-audit-workflows",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/risk-dashboard",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-risk-dashboard",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/remediation-retests",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-remediation-retests",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/audit-trail",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "audit-trail",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/report-exports",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-report-exports",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/integrations",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/notifications",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/trends-retests",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-trends-retests",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sox-ops/executive-dashboards",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sox-ops-executive-dashboards",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/controls",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "controls",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/risk-assessments",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "risk-assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/evidence",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/evidence-vault",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "evidence-vault",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/deficiencies",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "deficiencies",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/walkthroughs",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "walkthroughs",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/management-reviews",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "management-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/itgc",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "itgc",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/financial-reviews",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "financial-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sod-reviews",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sod-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/access-reviews",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "access-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/change-requests",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "change-requests",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/audit-reports",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "audit-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/policies",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "policies",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/remediations",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "remediations",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/audit-plans",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "audit-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/materiality",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "materiality",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/workpaper-review",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "workpaper-review",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/controls-monitor",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "controls-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/regulatory-update",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "regulatory-update",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/sampling-recommendation",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "sampling-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/evidence-quality",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "evidence-quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "/key-report-completeness",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "canonical": "key-report-completeness",
+      "kind": "definition"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "cf-regulatory-change-digest-ingesting-sec-pcaob-updates-flagging",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "regulatory-change-digest-ingesting-sec-pcaob-updates-flagging",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "cf-anomaly-detection-in-gl-payroll-ap-transaction-feeds",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "anomaly-detection-in-gl-payroll-ap-transaction-feeds",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "cf-remediation-tracking-dashboard-with-timeline-view-and-predictive",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "remediation-tracking-dashboard-with-timeline-view-and-predictive",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "cf-evidence-adequacy-checker-via-rag-over-pcaob-coso",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "evidence-adequacy-checker-via-rag-over-pcaob-coso",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "cf-continuous-controls-monitoring-with-real-time-exception-alerts",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "continuous-controls-monitoring-with-real-time-exception-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-sampling-recommendation-engine-test-size-based-on",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "sampling-recommendation-engine-test-size-based-on",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-evidence-quality-assessment-is-provided-evidence-sufficient",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "evidence-quality-assessment-is-provided-evidence-sufficient",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-ai-driven-control-to-risk-auto-mapping",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "ai-driven-control-to-risk-auto-mapping",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-integration-with-workiva-auditboard-or-other-audit",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "integration-with-workiva-auditboard-or-other-audit",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-workflow-approvals-sign-offs-for-findings-no-approval",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "workflow-approvals-sign-offs-for-findings-no-approval",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-multi-year-trend-analysis-or-re-test-scheduling",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "multi-year-trend-analysis-or-re-test-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-webhooks-notifications-for-remediation-deadlines-or-new",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "webhooks-notifications-for-remediation-deadlines-or-new",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-dedicated-audit-trail-subsystem-despite-domain-requirement",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "dedicated-audit-trail-subsystem-despite-domain-requirement",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "gap-no-dashboards-for-executive-reporting-beyond-pdf-export",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "dashboards-for-executive-reporting-beyond-pdf-export",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "missing-features",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "missing-features",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "sox-ops",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "sox-ops",
+      "kind": "route"
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "sourceKey": "production-readiness",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "canonical": "production-readiness",
+      "kind": "route"
+    },
+    {
+      "project": "cash_flow",
+      "sourceKey": "aging-dashboard",
+      "source": "/Volumes/external/projects/cash_flow",
+      "canonical": "aging-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "cash_flow",
+      "sourceKey": "shortfall-alerts",
+      "source": "/Volumes/external/projects/cash_flow",
+      "canonical": "shortfall-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "cash_flow",
+      "sourceKey": "bill-scheduling",
+      "source": "/Volumes/external/projects/cash_flow",
+      "canonical": "bill-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "cash_flow",
+      "sourceKey": "tax-prep-pack",
+      "source": "/Volumes/external/projects/cash_flow",
+      "canonical": "tax-prep-pack",
+      "kind": "route"
+    },
+    {
+      "project": "finance-tracker-eakarsu",
+      "sourceKey": "finance-tracker-eakarsu",
+      "source": "/Volumes/external/projects/finance-tracker-eakarsu",
+      "canonical": "finance-tracker-eakarsu",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/transactions",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "transactions",
+      "kind": "definition"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/products",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "products",
+      "kind": "definition"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/accounts",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "accounts",
+      "kind": "definition"
+    },
+    {
+      "project": "quickbooks",
+      "sourceKey": "/broker-operations",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "canonical": "broker-operations",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-ap-duplicate-payment-vendor-refund-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-ap-duplicate-payment-vendor-refund-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-ar-short-pay-deduction-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-ar-short-pay-deduction-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-managed-print-copier-lease-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-managed-print-copier-lease-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-partner-revenue-share-settlement-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-partner-revenue-share-settlement-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-unapplied-cash-credit-balance-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-unapplied-cash-credit-balance-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAPARAutomation",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIAPARAutomation/frontend/src/pages/Dashboard.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAPARAutomation",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIAPARAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAPARAutomation",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAPARAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAPARAutomation",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAPARAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAPARAutomation",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "key": "/extensions",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation/client/src/components/Sidebar.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "key": "extensions",
+      "source": "/Volumes/external/projects/AIAuditWorkpaperAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIAuditWorkpaperAutomation",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIExpenseReportAuditor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "/expenses/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIExpenseReportAuditor",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIForensicAccountingInvestigator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIForensicAccountingInvestigator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "login",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AISOXAuditAutomation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "/cf-multi-year-audit-plan-optimization-with-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "/sox-ops/:moduleKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISOXAuditAutomation",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "quickbooks",
+      "key": "/",
+      "source": "/Volumes/external/projects/quickbooks/client/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "quickbooks",
+      "key": "login",
+      "source": "/Volumes/external/projects/quickbooks",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "quickbooks",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "quickbooks",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "quickbooks",
+      "key": "profile",
+      "source": "/Volumes/external/projects/quickbooks",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "vendor-master-normalization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-and-payment-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exact-duplicate-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fuzzy-invoice-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "split-invoice-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-expense-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-credit-balance-discovery",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statement-to-ledger-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cancelled-payment-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovery-case-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-correspondence-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-and-credit-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "general-ledger-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "preventive-payment-controls",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-and-root-cause-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-contract-and-price-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-and-receivable-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-and-lockbox-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "short-payment-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deduction-reason-classification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unauthorized-discount-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "freight-deduction-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "damage-deduction-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "promotion-allowance-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-and-pricing-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "proof-of-delivery-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "evidence-request-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-dispute-package",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deadline-and-aging-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovered-cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-root-cause-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lease-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "device-serial-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "meter-read-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "included-volume-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "mono-color-click-rate",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supply-inclusion-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-downtime-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "device-relocation-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-device-billing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "property-tax-fee-review",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "early-termination-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fleet-device-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-channel-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gross-revenue-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-chargeback-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tax-pass-through-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "revenue-share-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "minimum-guarantee-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "marketing-service-fee-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "missing-payment-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "settlement-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partner-product-profitability",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "bank-lockbox-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-payer-normalization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "remittance-extraction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-candidate-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "exact-cash-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "probabilistic-cash-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "partial-payment-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "consolidated-payment-handling",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deduction-identification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unidentified-receipt-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-credit-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-reapplication-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "general-ledger-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "aging-escalation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-unit-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "AIRevenueRecognitionEngine",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "finance-tracker-eakarsu",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}
